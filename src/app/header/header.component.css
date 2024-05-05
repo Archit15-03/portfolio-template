@@ -1,0 +1,6 @@
+.jumbotron{
+  padding: 2rem 1rem;
+  /* background-color: cornflowerblue; */
+  background-image: url("../../assets/header.jpg");
+  background-size: cover;
+}

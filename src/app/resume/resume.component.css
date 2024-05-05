@@ -1,0 +1,7 @@
+accordion-group::ng-deep .btn-link{
+  color:black;
+}
+
+accordion-group::ng-deep .card-header{
+  background-color:darkslateblue;
+}
